@@ -2,7 +2,7 @@ body{
     text-align: center;
 }
 header,section{
-    background-color: rgb(243, 242, 242);
+    background-color:#eeeeee;
 }
 h2{
     font-size: large;
@@ -16,7 +16,9 @@ span{
 ul{
    text-align: left; 
    width: 30em;
-   margin-left: 40em;
+   margin-left: auto;
+   margin-right: auto;
+   
 }
 li{
     margin-bottom: 1em;
