@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+header,section{
+    background-color: rgb(243, 242, 242);
+}
+h2{
+    font-size: large;
+}
+li{
+    font-size: small;
+}
+span{
+    font-weight: bold;
+}
+ul{
+   text-align: left; 
+   width: 30em;
+   margin-left: 40em;
+}
+li{
+    margin-bottom: 1em;
+}
