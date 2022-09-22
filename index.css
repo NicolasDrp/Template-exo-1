@@ -2,6 +2,9 @@ body{
     text-align: center;
     background-color: #eeeeee;
 }
+h1{
+    font-size:3em;
+}
 h2{
     font-size: large;
 }
@@ -21,4 +24,11 @@ li{
 }
 figure{
     background-color: white;
+}
+p.quote{
+    width: 30em;
+    margin: auto;
+    font-size: small;
+    margin-bottom: 1em;
+
 }
